@@ -14,4 +14,4 @@ ID | Input Data | Expected | Actual | Status (PASS/FAIL)
 
 Visual Feedback: Green color use karo PASS ✅ ke liye aur Red color FAIL ❌ ke liye (ANSI codes).
 
-No Explanations: Mujhe logic mat samjhao, bas code block do jise main copy-paste karke apna logic test kar sakoon.
+No Explanations: Mujhe logic mat samjhao, bas code block do jise main copy-paste karke apna logic test kar sakoon aur hai using namespace std.
